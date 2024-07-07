@@ -38,6 +38,10 @@ To remove or move duplicate files:
 - **Backup**: Before deleting or moving files, ensure you have a backup of important data.
 - **Permissions**: Ensure script execution and Registry modifications are allowed by the system.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## Contributing
 
 Feel free to fork the repository, make changes, and submit pull requests. Your contributions are welcome!

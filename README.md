@@ -28,6 +28,9 @@ To remove or move duplicate files:
 
 5. Confirm actions as prompted.
 
+![image](https://github.com/user-attachments/assets/a3b021e1-21eb-41ce-bf44-0691fcc76d78)
+
+
 ## Requirements
 
 - Windows operating system (tested on Windows 10)
